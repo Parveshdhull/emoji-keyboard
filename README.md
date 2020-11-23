@@ -11,7 +11,7 @@ One execution of script maps emoji's to Numpad and keyboard become **Emoji Keybo
 
 ## Working
 
-* Created file .emoji in the home directory for toggle between activation and deactivation.
+* Creates file .emoji in the home directory for toggle between activation and deactivation.
 
 * Syntax for assigning one mapping
 	```xmodmap  -e  "keycode [code] = [Emoji Unicode] [Emoji Unicode with Shift Key]"```
