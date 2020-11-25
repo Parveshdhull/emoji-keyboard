@@ -1,4 +1,4 @@
-# Emoji Keyboard - Toggle
+# Linux Emoji Keyboard - Toggle
 
 There are many emoji software's available, but all are tiresome. Either you need to copy-paste emoji's one by one or you have to use the cursor to select emoji.
 
