@@ -19,6 +19,9 @@ One execution of script maps emoji's to Numpad and keyboard become **Emoji Keybo
 
 * "setxkbmap -option" is used for remove mappings and reset keyboard to default.
 
+## YouTube Tutorial
+https://www.youtube.com/watch?v=ga0iY7nnJrk
+
 ## Troubleshoot
 
 You can use same concept and can also use for other distributions. If you encounter any problem and  need my help,you can reach me at "git.hrca@gmail.com"
