@@ -2,7 +2,7 @@
 
 There are many emoji software's available, but all are tiresome. Either you need to copy-paste emoji's one by one or you have to use the cursor to select emoji.
 
-So I created this simple script that maps emoji's Unicode value to Numpad and makes typing emoji's very easy and very fast. Other keys can also be included, it depends on how many emoji you want to use. And if you have a problem with remembering so many assignments, you can print out emoji icons and can paste on assigned keyboard keys.
+So I created this simple script that maps emoji's Unicode value to Numpad and makes typing emoji's very easy and very fast. Other keys can also be included, it depends on how many emoji you want to use.
 
 ## Usage
 
