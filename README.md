@@ -1,3 +1,7 @@
+Note: This repository is no longer maintained. The latest version is available at [emoji-keyboard](https://github.com/Parveshdhull/emoji-keyboard).
+
+---
+
 # Linux Emoji Keyboard - Toggle
 
 There are many emoji software's available, but all are tiresome. Either you need to copy-paste emoji's one by one or you have to use the cursor to select emoji.
